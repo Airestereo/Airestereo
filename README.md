@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Carlos @Airestereo
-- 👀 I’m interested in software programming.
-- 🌱 I’m currently learning React/Next.js
+- 👀 I’m interested in JavaScript Software Programming.
+- 🌱 I’m currently using React/Next.js
 - 📫 How to reach me: https://airestereo.com/
 
 <!---
